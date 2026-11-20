@@ -1,0 +1,13 @@
+{
+  "name": "little key locksmith",
+  "tagline": ".. dinkytown",
+  "serviceArea": "dinkytown && nearby neighborhoods",
+  "phone": "(651)707-4845",
+  "phoneDisplay": "(651) 707-4845",
+  "hours": "mon–sat · 5:30–8pm central time",
+  "description": "friendly mobile help for home, car, and apartment lockouts in your town.",
+  "openDays": "mon,tue,wed,thu,fri,sat",
+  "openStart": "17:30",
+  "openEnd": "20:00",
+  "timeZone": "America/Chicago"
+}
